@@ -11,8 +11,8 @@ export default function Index() {
       <PartnersSection />
       <FeaturesSection />
       <footer className="py-8 text-center text-sm text-gray-400">
-        От безопасных платежей до синхронизации счетов —{" "}
-        <span className="font-medium text-white">всё работает в одном месте.</span>
+        ESP, KillAura, Speed, Fly и десятки модулей —{" "}
+        <span className="font-medium text-white">всё в одном клиенте XentrixRevolution.</span>
       </footer>
     </main>
   )
