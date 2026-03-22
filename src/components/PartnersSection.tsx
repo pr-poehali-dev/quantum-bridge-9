@@ -1,13 +1,13 @@
 import Icon from "@/components/ui/icon"
 
 const servers = [
-  { name: "Hypixel", icon: "Globe" },
-  { name: "MineClub", icon: "Sword" },
-  { name: "CubeCraft", icon: "Box" },
-  { name: "Mineplex", icon: "Layers" },
-  { name: "GommeHD", icon: "Zap" },
-  { name: "FunCraft", icon: "Star" },
-  { name: "2b2t", icon: "Skull" },
+  { name: "Funtime", icon: "Zap" },
+  { name: "Spokytime", icon: "Star" },
+  { name: "HolyWorld", icon: "Globe" },
+  { name: "CheatMine", icon: "Sword" },
+  { name: "CubixWorld", icon: "Box" },
+  { name: "MasedWorld", icon: "Layers" },
+  { name: "EasyMine", icon: "Circle" },
 ]
 
 export function PartnersSection() {
