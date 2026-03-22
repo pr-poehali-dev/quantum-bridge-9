@@ -7,7 +7,7 @@ const reviews = [
     avatar: "DS",
     color: "bg-red-600",
     rating: 5,
-    text: "KillAura просто огонь, NCP даже не пикает. Играю уже 3 месяца — ни одного бана. XentrixRevolution лучшее что было в моей жизни.",
+    text: "KillAura просто огонь, NCP даже не пикает. Играю уже 3 месяца — ни одного бана. Xentrix лучший клиент что я юзал.",
   },
   {
     name: "ProGamer_Kesha",
@@ -31,7 +31,7 @@ const reviews = [
     avatar: "NS",
     color: "bg-blue-600",
     rating: 5,
-    text: "На MetaHvh жёсткий античит, но BladeSilent 2.0 обходит его без проблем. AutoBlock и Velocity работают идеально в HvH.",
+    text: "MetaHvh — сервак для читаков, античит там слабый, но даже на серьёзных серверах Xentrix не детектится. AutoBlock и Velocity в HvH просто имба.",
   },
   {
     name: "ShadowBlade_777",
