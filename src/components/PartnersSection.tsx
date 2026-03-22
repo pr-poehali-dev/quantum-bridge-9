@@ -6,8 +6,8 @@ const servers = [
   { name: "HolyWorld", icon: "Globe" },
   { name: "CheatMine", icon: "Sword" },
   { name: "CubixWorld", icon: "Box" },
-  { name: "MasedWorld", icon: "Layers" },
-  { name: "EasyMine", icon: "Circle" },
+  { name: "ReallyWorld", icon: "Layers" },
+  { name: "MetaHvh", icon: "Circle" },
 ]
 
 export function PartnersSection() {
