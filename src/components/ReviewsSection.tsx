@@ -31,7 +31,7 @@ const reviews = [
     avatar: "NS",
     color: "bg-blue-600",
     rating: 5,
-    text: "MetaHvh — сервак для читаков, античит там слабый, но даже на серьёзных серверах Xentrix не детектится. AutoBlock и Velocity в HvH просто имба.",
+    text: "На эвентах всех пеню подряд, никто ничего не может сделать. AutoBlock и Velocity в HvH просто имба, Xentrix топ.",
   },
   {
     name: "ShadowBlade_777",
