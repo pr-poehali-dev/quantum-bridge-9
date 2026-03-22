@@ -3,6 +3,7 @@ import { HeroSection } from "@/components/HeroSection"
 import { PartnersSection } from "@/components/PartnersSection"
 import { FeaturesSection } from "@/components/FeaturesSection"
 import { PricingSection } from "@/components/PricingSection"
+import { ReviewsSection } from "@/components/ReviewsSection"
 import { ParticlesBackground } from "@/components/ParticlesBackground"
 
 export default function Index() {
@@ -15,6 +16,7 @@ export default function Index() {
         <PartnersSection />
         <FeaturesSection />
         <PricingSection />
+        <ReviewsSection />
         <footer className="py-8 text-center text-sm text-gray-400">
           ESP, KillAura, Speed, Fly и десятки модулей —{" "}
           <span className="font-medium text-white">всё в одном клиенте XentrixRevolution.</span>
